@@ -1,2 +1,2 @@
-# .github
+# Projet Baby-Game
 Baby-Game
